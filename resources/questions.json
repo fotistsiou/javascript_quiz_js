@@ -1,0 +1,99 @@
+[
+    {
+      "question": "Inside which HTML element do we put the JavaScript?",
+      "answers": [
+        {
+          "text": "&#60;javascript&#62;",
+          "correct": false
+        },
+        {
+          "text": "&#60;js&#62;",
+          "correct": false
+        },
+        {
+          "text": "&#60;scripting&#62;",
+          "correct": false
+        },
+        {
+          "text": "&#60;script&#62;",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Where is the correct place to insert a JavaScript?",
+      "answers": [
+        {
+          "text": "The <body> section",
+          "correct": false
+        },
+        {
+          "text": "The <head> section",
+          "correct": false
+        },
+        {
+          "text": "Both the <body> section and the <head> section are correct",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "Πώς δημιουργούμε ένα αντικείμενο στην Javascript;",
+      "answers": [
+        {
+          "text": "Χρησιμοποιούντας αγκύλες [] και βάζοντας τις τιμές χωρισμένες με κόμμα",
+          "correct": false
+        },
+        {
+          "text": "Χρησιμοποιούντας αγκιστρα {} και βάζοντας τις τιμές χωρισμένες με κόμμα",
+          "correct": false
+        },
+        {
+          "text": "Χρησιμοποιούντας αγκύλες {} και βάζοντας κλειδιά και τιμές, χωρισμένα μεταξύ τους με άνω-κάτω τελεία και τα ζευγάρια αυτά χωρισμένα μεταξύ τους με κόμμα",
+          "correct": true
+        },
+        {
+          "text": "Χρησιμοποιούντας παρενθέσεις () και βάζοντας τις τιμές χωρισμένες με κόμμα",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "question": "What is the correct syntax for referring to an external script called 'test.js'?",
+      "answers": [
+        {
+          "text": "&#60;script href='test.js'&#62;",
+          "correct": false
+        },
+        {
+          "text": "&#60;script alt='test.js'&#62;",
+          "correct": false
+        },
+        {
+          "text": "&#60;script src='test.js'&#62;",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "question": "How to write an IF statement in JavaScript?",
+      "answers": [
+        {
+          "text": "if i=5",
+          "correct": false
+        },
+        {
+          "text": "if {i==5}",
+          "correct": false
+        },
+        {
+          "text": "if (i==5)",
+          "correct": true
+        },
+        {
+          "text": "if i==5",
+          "correct": false
+        }
+      ]
+    }
+  ]
