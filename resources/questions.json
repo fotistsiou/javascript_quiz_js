@@ -38,22 +38,22 @@
       ]
     },
     {
-      "question": "Πώς δημιουργούμε ένα αντικείμενο στην Javascript;",
+      "question": "How to create an object in Javascript?",
       "answers": [
         {
-          "text": "Χρησιμοποιούντας αγκύλες [] και βάζοντας τις τιμές χωρισμένες με κόμμα",
+          "text": "Using brackets [] and putting comma-separated values",
           "correct": false
         },
         {
-          "text": "Χρησιμοποιούντας αγκιστρα {} και βάζοντας τις τιμές χωρισμένες με κόμμα",
+          "text": "Using hooks {} and putting comma-separated values",
           "correct": false
         },
         {
-          "text": "Χρησιμοποιούντας αγκύλες {} και βάζοντας κλειδιά και τιμές, χωρισμένα μεταξύ τους με άνω-κάτω τελεία και τα ζευγάρια αυτά χωρισμένα μεταξύ τους με κόμμα",
+          "text": "Using hooks {} and putting keys and values, separated by a colon and these pairs separated by a comma",
           "correct": true
         },
         {
-          "text": "Χρησιμοποιούντας παρενθέσεις () και βάζοντας τις τιμές χωρισμένες με κόμμα",
+          "text": "Using parentheses () and comma-separated values",
           "correct": false
         }
       ]
